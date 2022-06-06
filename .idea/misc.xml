@@ -6,11 +6,13 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
         <entry key="app/src/main/res/layout/fragment_carrito.xml" value="0.19947916666666668" />
         <entry key="app/src/main/res/layout/fragment_menuprincipal.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/fragment_perfil.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/layout/fragment_perfil.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.25" />
         <entry key="app/src/main/res/layout/home.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/layout/item_carrito.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_productos.xml" value="0.19947916666666668" />
         <entry key="app/src/main/res/layout/item_random.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/layout/item_search.xml" value="0.19947916666666668" />
         <entry key="app/src/main/res/menu/menu_nav.xml" value="0.19947916666666668" />
       </map>
     </option>

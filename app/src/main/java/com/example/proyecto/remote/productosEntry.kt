@@ -8,7 +8,7 @@ data class productosEntry(
     @SerializedName("title")
     val title: String,
     @SerializedName("price")
-    val price: String,
+    val price: Double,
 
     @SerializedName("description")
     val description: String,
@@ -20,12 +20,12 @@ data class productosEntry(
    val image: String,
 
     @SerializedName("rating")
-     val rating: ratingEntry,
+     val rating: rateEntry,
 
 )
-data class ratingEntry(
+data class rateEntry(
     @SerializedName("rate")
-    val rate: Int,
+    val rate: Double,
 
     @SerializedName("count")
     val count: Int,
